@@ -1,6 +1,6 @@
 # coding-issues
 
-## Instrustions use this repo
+## Instrustions to use this repo
 
 - Fork this Repository using the button at the top
 - Clone your forked repository to your pc (type `git clone` and then paste the url from clone option.)
